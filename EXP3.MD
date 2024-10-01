@@ -41,10 +41,36 @@ else:
 
 ### Output:
 ```
+1. Enter a number: 2
+Prime Number
+
+2. Enter a number: 10
+Not a Prime Number
+
+3.  Enter a number: -3
+Enter a Positive Number
+
+4.   Enter a number: 3
+Prime Number
+
+5.  Enter a number: 
+Enter a Positive Number
+
+6. Enter a number: 22/7
+Enter a Positive Number
+
+7. Enter a number: 3.14
+Enter a Positive Number
+
+8. Enter a number: 3A
+Enter a Positive Number
+
+9. Enter a number: 11A
+Enter a Positive Number
+
+10. Enter a number: 11
+Prime Number
 ```
-
-
-
 
 ### Result:
 Thus, the python program to check the number is prime or not is implemented and the output is verified successfully.
