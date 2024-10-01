@@ -37,6 +37,7 @@ else:
 
 ```
 ### Output:
+```
 1. Enter the input: 143
 Not an Armstrong Number
 
@@ -66,6 +67,7 @@ Enter a Positive Integer.
 
 10. Enter the input: 0
 Armstrong Number
+```
 ### Result:
 Thus, the python program to check the number is Armstrong number or not implemented and the output is verified successfully.
 
