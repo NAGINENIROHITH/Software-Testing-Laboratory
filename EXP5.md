@@ -1,4 +1,4 @@
-### Ex.No:5 BINARY SEARCH (check whether the Binary Search and inspect for failures).
+# Ex.No:5 BINARY SEARCH (check whether the Binary Search and inspect for failures).
 ## DATE: 10/09/2024
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
